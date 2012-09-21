@@ -1,0 +1,7 @@
+src/libmogfs++*
+src/Makefile
+src/Makefile.in
+Makefile
+Makefile.in
+src/.deps
+src/.libs
