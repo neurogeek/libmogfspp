@@ -6,11 +6,12 @@ a MogileFS cluster.
 
 This is an alpha version yet.
 
-==================================
 Usage:
+==================================
 
 It is as simple as:
 
+```cpp
 // Test file
 //MogFS
 #include <mogilefs++/mogilefs++>
@@ -30,10 +31,12 @@ client = new MogileFS::ClientLib("mogile.server.com", 6001);
 picFile = client->getFile(domain, key);
 
 [...]
+```
 
-Done!.
-==================================
+and Done!.
+
 Requirements:
+==================================
 
 This library uses:
 
@@ -41,8 +44,8 @@ cURL
 pcre++
 socket++
 
-==================================
 Compiling and installing:
+==================================
 
 ./configure
 make
