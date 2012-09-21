@@ -1,3 +1,6 @@
+src/*.o
+src/*.lo
+src/libmogilefs++*
 src/libmogfs++*
 src/Makefile
 src/Makefile.in
