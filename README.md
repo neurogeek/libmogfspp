@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/neurogeek/python-crypt-import-hooks.png?branch=master)](https://travis-ci.org/neurogeek/python-crypt-import-hooks)
+
 libmogfs++
 ==================================
 
